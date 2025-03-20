@@ -31,4 +31,5 @@ int main() {
     }
 
     cout<<setw(7)<<a<<endl<<setw(7)<<b<<" "<<o<<endl<<"---------"<<endl<<setw(7)<<rez;
+    return 0;
 }
