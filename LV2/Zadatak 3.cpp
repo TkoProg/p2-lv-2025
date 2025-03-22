@@ -25,4 +25,5 @@ int main() {
         }
     }
     cout<<"Trazeni broj je: "<<broj;
+    return 0;
 }
